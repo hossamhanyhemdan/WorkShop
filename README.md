@@ -1,6 +1,6 @@
 # WorkShop
 
-to start this project please tun this
+to start this project please run this
 sudo docker-compose up -d
 then
 verfy 
